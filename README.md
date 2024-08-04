@@ -1,0 +1,2 @@
+The documentation for this project is available here : [Automate_Infrastructure_With_IaC_using_Terraform_3
+](https://github.com/francdomain/StegHub_DevOps-Cloud_Engineering/blob/main/Automate_Infrastructure_With_IaC_using_Terraform_3/project_18.md)
